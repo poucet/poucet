@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poucet
-- 👀 I’m interested in creativity, tech, music and consciousness.
+- 👀 I’m interested in ai, creativity, tech, music and consciousness.
 - 🌱 I’m currently learning how to write rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on twitter @poucet
