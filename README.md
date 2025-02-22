@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @poucet
+- 👋 Hi, I’m @poucet, aka [simply-chris](https://docs.google.com/document/d/17hrpRbY9jm5I7ZoJHHa11ncIQNKhR004xEf965BmFCY/edit?tab=t.0)
 - 👀 I’m interested in ai, creativity, tech, music and consciousness.
-- 🌱 I’m currently learning how to write rust
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how make an AI discord bot
+- 💞️ I’m looking to collaborate on on my AI discord bot.
 - 📫 You can reach me on twitter @poucet
