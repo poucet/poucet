@@ -2,4 +2,4 @@
 - 👀 I’m interested in ai, creativity, tech, music and neurodivergence.
 - 🌱 I’m currently learning how make an AI discord bot
 - 💞️ I’m looking to collaborate on on my AI discord bot.
-- 📫 You can reach me on twitter @poucet
+- 📫 You can reach me on twitter @simplychrisrl
