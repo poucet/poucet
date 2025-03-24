@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @poucet, aka [simply-chris](https://docs.google.com/document/d/17hrpRbY9jm5I7ZoJHHa11ncIQNKhR004xEf965BmFCY/edit?tab=t.0)
+- 👋 Hi, I’m [simply-chris](www.simplychris.ai)
 - 👀 I’m interested in ai, creativity, tech, music and neurodivergence.
 - 🌱 I’m currently learning how make an AI discord bot
 - 💞️ I’m looking to collaborate on on my AI discord bot.
