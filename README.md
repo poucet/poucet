@@ -1,3 +1,2 @@
 - 👋 Hi, I’m [simply-chris](www.simplychris.ai)
 - 👀 I’m interested in ai, creativity, tech, music and neurodivergence.
-- 📫 You can reach me on twitter @simplychrisrl
