@@ -1,2 +1,3 @@
 - 👋 Hi, I’m [simply-chris](www.simplychris.ai)
 - 👀 I’m interested in ai, creativity, tech, music and neurodivergence.
+- When I'm not working at a leading AI company I like to make music and build audio tools. You can find them at http://simply.audio, most of them are open source.
