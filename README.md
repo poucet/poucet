@@ -24,6 +24,5 @@ When I'm not at work I make music and build tools for it. [**simply.audio**](htt
 
 [simplychris.ai](https://simplychris.ai) ·
 [simply.audio](https://simply.audio) ·
-[YouTube](https://youtube.com/@simplychrisrl) ·
 [LinkedIn](https://linkedin.com/in/chris-poucet) ·
 [Book a call](https://cal.com/simply-chris-rl/30min)
