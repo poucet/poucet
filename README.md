@@ -20,6 +20,8 @@ When I'm not at work I make music and build tools for it. [**simply.audio**](htt
 
 ### Find me
 
+[![Discord: simplychris.rl](https://img.shields.io/badge/Discord-simplychris.rl-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/app)
+
 [simplychris.ai](https://simplychris.ai) ·
 [simply.audio](https://simply.audio) ·
 [YouTube](https://youtube.com/@simplychrisrl) ·
