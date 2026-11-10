@@ -13,8 +13,10 @@ My work connects non-deterministic agents with deterministic, high-performance s
 
 When I'm not at work I make music and build tools for it. [**simply.audio**](https://simply.audio) is a creative community with open-source tools for electronic music lovers: making music, jamming live and audio-reactive visuals. The AI is a co-producer, and the human creator stays in control.
 
+The aim is to push what Rust can do for audio: low-latency DSP, plugin-grade tooling and AI agents that sit inside a real-time signal path, not beside it.
+
 - [**simply tussen**](https://simply.audio/tussen): keeps music, visuals and controllers on one beat for live performance (alpha, macOS)
-- [**simply flux**](https://simply.audio/flux): a modular synthesizer you can patch alongside an AI agent
+- [**simply flux**](https://simply.audio/flux): a modular synthesizer you can patch alongside an AI agent, built in Rust, with real-time audio at its core
 - [**simply droplets**](https://github.com/poucet/droplets): an AI MIDI sequencer you drive by chatting with it
 - [**simply creative**](https://www.simply-creative.ai): a browser scratchpad for thinking through ideas
 
